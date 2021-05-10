@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gravity Snake</string>
+    <string name="start">Start</string>
+    <string name="select_difficulty">Choose Difficulty:</string>
+    <string name="high_score">High Score: %1$s</string>
+    <string name="music">Music</string>
+</resources>
